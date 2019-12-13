@@ -1,0 +1,23 @@
+{
+  "name": "robotjs",
+  "version": "1.0.0",
+  "description": "learning program",
+  "main": "index.js",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isees/robotjs.git"
+  },
+  "author": "Bain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isees/robotjs/issues"
+  },
+  "homepage": "https://github.com/isees/robotjs#readme"
+}
